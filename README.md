@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/hknlgn" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="hakanolgun" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/14893142/nevidev" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12544106" height="45" width="45" /></a>
-<a href="https://twitter.com/kpthknlgn" target="blank"><img align="center" src="https://www.pngall.com/wp-content/uploads/2016/07/Twitter-Download-PNG.png" alt="hakanolgun" height="30" width="30" /></a>
+<a href="https://twitter.com/kpthknlgn" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/tr/f/f2/Twitter-bird-light-bgs.png" alt="hakanolgun" height="30" width="30" /></a>
 </p>
 
 
