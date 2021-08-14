@@ -6,7 +6,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on everyone who likes collaborating
-- 📫 You can reach me by my personal website https://hakanolgun.com or my e-mail hakan@hakanolgun.com
+- 📫 You can contact me by my personal website https://hakanolgun.com or my e-mail hakan@hakanolgun.com
 
 
 <h3 align="left">Connect:</h3>
