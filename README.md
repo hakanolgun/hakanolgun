@@ -3,15 +3,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakanolgun" alt="hakanolgun" /></a> </p>
 
-- 🔭 I’m currently working on [NextJS](https://github.com/hakanolgun/try-next-blog)
+- 🔭 I’m currently working on **React Native** and **NodeJS**
 
-- 🌱 I’m currently learning **NodeJS & NextJS**
-
-- 🤝 I’m looking for help with [NextJS on server](https://github.com/hakanolgun/try-next-blog)
-
-- 👨‍💻 All of my projects are available at [https://hakanolgun.com](https://hakanolgun.com)
-
-- 💬 Ask me about **HTML, CSS, JavaScript & ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📫 How to reach me **kaptanhakanolgun@gmail.com**
 
