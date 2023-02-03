@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hakan</h1>
-<h3 align="center">Front-end Developer | JavaScript & React</h3>
+<h3 align="center">Software Developer | JavaScript, React, NodeJS</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakanolgun" alt="hakanolgun" /></a> </p>
 
-- 🔭 I’m currently working on **React Native** and **NodeJS**
-
-- 🌱 I’m currently learning **NodeJS**
-
+- 🔭 I’m currently developing mobile apps with **React Native** and **NodeJS** and websites with **NextJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kpthknlgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kpthknlgn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hknlgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hknlgn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14893142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14893142" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kaptanhakanolgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaptanhakanolgun" height="30" width="40" /></a>
