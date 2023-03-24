@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakanolgun" alt="hakanolgun" /></a> </p>
 
-- 🔭 I’m currently developing mobile apps with **React Native** and **NodeJS** and websites with **NextJS**
+- 🔭 I’m currently developing mobile apps and websites with **React Native**, **NextJS** and **NodeJS**. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
