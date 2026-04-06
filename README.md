@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hakan</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakanolgun" alt="hakanolgun" /></a> </p>
-
-
 - 🔭 I mainly build **websites** and **mobile apps**.
 - 🛠️ I use **Astro** or **React** for the frontend, **React Native** for mobile apps, and **Node.js** or **Go** for the backend.
 
@@ -23,10 +20,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
 </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hakanolgun&show_icons=true&theme=dark&locale=en" alt="hakanolgun" /></p>
-
-
 
 <!---
 hakanolgun/hakanolgun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
